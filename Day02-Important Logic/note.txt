@@ -1,0 +1,20 @@
+1. Reverse the Number  
+2. Reverse the String  
+3. Check Palindrome  
+4. Factorial of a Number  
+5. Fibonacci Series  
+6. Prime Number Check  
+7. Armstrong Number  
+8. Sum of Digits  
+9. Find the GCD (Greatest Common Divisor) of Two Numbers  
+10. Find the LCM (Least Common Multiple) of Two Numbers  
+11. Count the Number of Vowels and Consonants in a String  
+12. Check if a Number is Perfect (Sum of Divisors Equals the Number)  
+13. Count the Frequency of Characters in a String  
+14. Convert Decimal to Binary  
+15. Convert Binary to Decimal  
+16. Check if Two Strings are Anagrams  
+17. Find the Power of a Number (Exponentiation)  
+18. Swap Two Numbers Without Using a Third Variable 
+19. Find the Sum of All Prime Numbers up to N  
+20. Check if a String is a Substring of Another String 
