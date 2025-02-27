@@ -1,4 +1,14 @@
+// Expected Output
+// *****
+// *   *
+// *   *
+// *   *
+// *****
+
+
+
 import java.util.Scanner;
+
 
 public class hollowRectPrinting {
     public static void main(String[] args) {
