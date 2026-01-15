@@ -1,6 +1,6 @@
 // Print the sum of n number 
 
-public class Question2 {
+public class Question2i{
 
     static int SeriesSum(int n) {
         if (n == 0)
