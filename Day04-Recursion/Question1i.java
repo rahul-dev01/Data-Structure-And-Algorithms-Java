@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Question1 {
+public class Question1i {
     
     public static void printIncreasing(int n) {
         if (n == 0) {  

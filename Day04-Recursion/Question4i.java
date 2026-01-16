@@ -1,6 +1,6 @@
 // fiboaccci Series of number n 
 
-public class Question4 {
+public class Question4i {
     
     static int fib(int n) {
         if( n == 0 || n == 1 ){

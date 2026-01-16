@@ -1,4 +1,4 @@
-public class Question6 {
+public class Question6i {
 
     static int powfn(int p , int q ){
         if(q == 0) return 1 ;

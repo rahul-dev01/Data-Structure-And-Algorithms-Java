@@ -1,6 +1,6 @@
 // Find the sum of its digit using recurssion
 
-public class Question5 {
+public class Question5i {
 
     static int sod(int n) {
         if(n >= 0 && n <= 9){

@@ -13,5 +13,7 @@ public class factNumber {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         System.out.println(calCulateFactorial(number)); 
+        sc.close();
     }
+    
 }

@@ -1,6 +1,6 @@
 // Finding Factorial of number n 
 
-public class Question3 {
+public class Question3i {
    static int FindFactorial(int n ){
     if(n == 0) return 1;
     
