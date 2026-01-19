@@ -22,5 +22,6 @@ public class QuestionString {
         }
 
         System.out.println(str);
+        sc.close();
     }
 }
