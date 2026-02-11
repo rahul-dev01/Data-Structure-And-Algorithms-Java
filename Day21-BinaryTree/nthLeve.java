@@ -53,7 +53,7 @@ public class nthLeve {
 
     static int findHeight(Node root) {
         if(root == null) return 0 ;
-        if(root.Left == null && root.Right == null) return 0 ; 
+        if(root.Left == null && root.Right == null) ; 
         return 1 + Math.max(findHeight(root.Left),findHeight(root.Right));
     }
 
